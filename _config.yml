@@ -10,11 +10,11 @@
 locale                   : "en-US"
 title                    : "Jixin Ma"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Jixin Ma"
 description              : &description "personal description"
 url                      : https://jixin-ma.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "Jixin-Ma/Jixin-Ma.github.io/"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -22,9 +22,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Jixin Ma"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Master student, State Key Laboratory of Robotics and Systems, HIT"
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
