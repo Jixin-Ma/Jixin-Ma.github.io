@@ -36,7 +36,7 @@ MRI Super-Resolution via Hybrid Information Enhancement Network based on Multi-A
 
 2024 IEEE International Conference on Bioinformatics and Biomedicine
 
-We propose a Hybrid Information Enhanced Network (HIEN) for MRI super-resolution task. Specifically, we propose Spatial-Channel Hybrid Attention (SCHA) to enhance specific semantics representation by combining spatial and channel selfattention together. We introduce convolution and pixelshuffle operations in SCHA to model both short- and long- dependencies while reducing complexity. To recover more high-frequency components, we propose a Dynamic High-Frequency Pass Filter (DHPF) to preserve high-frequency information adaptively in pixel-wise.
+We propose a Hybrid Information Enhanced Network (HIEN) for MRI super-resolution task. In HIEN, We design a Spatial-Channel Hybrid Attention (SCHA) to enhance specific semantics representation by combining spatial and channel selfattention together. We propose a Dynamic High-Frequency Pass Filter (DHPF) to preserve high-frequency information adaptively in pixel-wise.
 </div>
 </div>
 
