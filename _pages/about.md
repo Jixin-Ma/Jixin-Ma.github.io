@@ -22,8 +22,7 @@ Educations
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.08*: &nbsp;🎉🎉 One paper "MRI Super-Resolution via Hybrid Information Enhancement Network based on Multi-Attention and Adaptive Convolution" has been accepted by IEEE BIBM 2024. 
 
 # 📝 Publications final
 
