@@ -35,6 +35,21 @@ MRI Super-Resolution via Hybrid Information Enhancement Network based on Multi-A
 **Jixin Ma**, Hongjian Yu, Zhijiang Du, Xin Hua, Zibo Li, and Hui Zhao.
 
 2024 IEEE International Conference on Bioinformatics and Biomedicine
+
+We propose a Hybrid Information Enhanced Network (HIEN) for MRI super-resolution task. Specifically, we propose Spatial-Channel Hybrid Attention (SCHA) to enhance specific semantics representation by combining spatial and channel selfattention together. We introduce convolution and pixelshuffle operations in SCHA to model both short- and long- dependencies while reducing complexity. To recover more high-frequency components, we propose a Dynamic High-Frequency Pass Filter (DHPF) to preserve high-frequency information adaptively in pixel-wise.
+</div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BIBM 2024</div><img src='images/SR_2D.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+MRI Super-Resolution via Hybrid Information Enhancement Network based on Multi-Attention and Adaptive Convolution
+
+**Jixin Ma**, Hongjian Yu, Zhijiang Du, Xin Hua, Zibo Li, and Hui Zhao.
+
+2024 IEEE International Conference on Bioinformatics and Biomedicine
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -42,6 +57,7 @@ MRI Super-Resolution via Hybrid Information Enhancement Network based on Multi-A
 </div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
