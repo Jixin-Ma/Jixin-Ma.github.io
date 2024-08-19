@@ -44,17 +44,15 @@ We propose a Hybrid Information Enhanced Network (HIEN) for MRI super-resolution
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">BSPC</div><img src='images/HX_SR_2D.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Multi kernel cross sparse graph attention convolutional neural network for brain magnetic resonance imaging super-resolution
+Multi kernel cross sparse graph attention convolutional neural network for brain magnetic resonance imaging super-resolution [**Paper**](https://www.sciencedirect.com/science/article/pii/S1746809424005020#s0100) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
 Xin Hua, Zhijiang Du, **Jixin Ma**, Hongjian Yu.
 
 Biomedical Signal Processing and Control, 2024 (SCI Q1, IF=4.9)
-[**Paper**]([https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC](https://www.sciencedirect.com/science/article/pii/S1746809424005020#s0100)) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
 We designe a super-resolution reconstruction model for head Magnetic Resonance Imaging (MRI) images. We propose a graph neural network module based on a sparse attention mechanism that connects distant pixel features and identifies influential neighboring pixels for target pixel inpainting.  
 </div>
 </div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 
 # 🎖 Honors and Awards
