@@ -29,7 +29,7 @@ Educations
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">BIBM 2024</div><img src='images/SR_2D.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[MRI Super-Resolution via Hybrid Information Enhancement Network based on Multi-Attention and Adaptive Convolution](https://github.com/Jixin-Ma)
+MRI Super-Resolution via Hybrid Information Enhancement Network based on Multi-Attention and Adaptive Convolution
 
 **Jixin Ma**, Hongjian Yu, Zhijiang Du, Xin Hua, Zibo Li, and Hui Zhao.
 
