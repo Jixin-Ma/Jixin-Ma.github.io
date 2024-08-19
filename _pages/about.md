@@ -16,8 +16,8 @@ You can find my CV here: [CV](../assets/cv_mjx_4.0_4.pdf) / [Email](majx@stu.hit
 
 Educations
 ======
-- 2018.08-2022.06   B.E. in Harbin Institute of Technology
-- 2022.08-present   M.S. in Harbin Institute of Technology
+- 2018.08-2022.06  $~~~~$ **B.E.** in Harbin Institute of Technology
+- 2022.08-present  $~~~~$ **M.S.** in Harbin Institute of Technology
 
 Getting started
 ======
