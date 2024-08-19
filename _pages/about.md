@@ -50,8 +50,7 @@ Xin Hua, Zhijiang Du, **Jixin Ma**, Hongjian Yu.
 
 Biomedical Signal Processing and Control, 2024 (SCI Q1, IF=4.9)
 [**Paper**]([https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC](https://www.sciencedirect.com/science/article/pii/S1746809424005020#s0100)) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+We designe a super-resolution reconstruction model for head Magnetic Resonance Imaging (MRI) images. We propose a graph neural network module based on a sparse attention mechanism that connects distant pixel features and identifies influential neighboring pixels for target pixel inpainting.  
 </div>
 </div>
 
