@@ -71,6 +71,21 @@ We designe a super-resolution reconstruction model for head Magnetic Resonance I
 
 
 
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/HX_SR_2D.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**DFAN: Dual-Frequency Aware Network for 3D MRI Super-Resolution** 
+
+**Jixin Ma**, Hongjian Yu, Zhijiang Du, Xin Hua, Zibo Li, Qiaohui Lu, Hui Zhao
+
+The 39th Annual AAAI Conference on Artificial Intelligence (AAAI 2025, Submitted)
+
+We propose a Dual-Frequency Aware Network (DFAN) for 3D MRI super-resolution. We design an adaptive frequency processing block which can process the features of different frequency domains through a low-frequency encoding unit and a high-frequency encoding unit. We also propose a cross-frequency interaction block for feature interaction based on cross-attention mechanism.
+</div>
+</div>
+
+
+
 
 
 # 🎖 Honors and Awards
