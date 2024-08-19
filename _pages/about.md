@@ -29,7 +29,7 @@ Educations
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">BIBM 2024</div><img src='images/SR_2D.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-MRI Super-Resolution via Hybrid Information Enhancement Network based on Multi-Attention and Adaptive Convolution
+**MRI Super-Resolution via Hybrid Information Enhancement Network based on Multi-Attention and Adaptive Convolution**
 
 **Jixin Ma\***, Hongjian Yu*, Zhijiang Du, Xin Hua, Zibo Li, and Hui Zhao.
 
@@ -44,7 +44,7 @@ We propose a Hybrid Information Enhanced Network (HIEN) for MRI super-resolution
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">BSPC</div><img src='images/HX_SR_2D.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Multi kernel cross sparse graph attention convolutional neural network for brain magnetic resonance imaging super-resolution [**Paper**](https://www.sciencedirect.com/science/article/pii/S1746809424005020#s0100) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+**Multi kernel cross sparse graph attention convolutional neural network for brain magnetic resonance imaging super-resolution** [**Paper**](https://www.sciencedirect.com/science/article/pii/S1746809424005020#s0100) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
 Xin Hua, Zhijiang Du, **Jixin Ma**, Hongjian Yu.
 
@@ -53,6 +53,24 @@ Biomedical Signal Processing and Control, 2024 (SCI Q1, IF=4.9)
 We designe a super-resolution reconstruction model for head Magnetic Resonance Imaging (MRI) images. We propose a graph neural network module based on a sparse attention mechanism that connects distant pixel features and identifies influential neighboring pixels for target pixel inpainting.  
 </div>
 </div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/HX_SR_2D.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**A Lightweight Multi-scale Multi-angle Dynamic Interactive Transformer-CNN Fusion Model for 3D Medical Image Segmentation** 
+
+Xin Hua, Hongjian Yu, Zhijiang Du, **Jixin Ma**, Fanjun Zheng, Chen Zhang, Qiaohui Lu, Hui Zhao
+
+Neurocomputing, 2024 (SCI Q1, IF=5.5)
+
+We designe a super-resolution reconstruction model for head Magnetic Resonance Imaging (MRI) images. We propose a graph neural network module based on a sparse attention mechanism that connects distant pixel features and identifies influential neighboring pixels for target pixel inpainting.  
+</div>
+</div>
+
+
+
 
 
 # 🎖 Honors and Awards
