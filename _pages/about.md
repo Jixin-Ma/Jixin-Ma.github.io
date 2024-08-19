@@ -9,7 +9,7 @@ redirect_from:
 
 I am a third-year Master student at [Harbin Institute of Technology](http://en.hit.edu.cn/).
 My research interest includes computer vision, robotics, deep learning and reinforcement Learning.
-You can find my CV here:
+You can find my CV here: [CV](../assets/cv_mjx_4.0_4.pdf)
 [Email](majx@stu.hit.edu.cn) / [Github](https://github.com/mjx8698)
 
 
