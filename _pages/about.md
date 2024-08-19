@@ -41,7 +41,7 @@ We propose a Hybrid Information Enhanced Network (HIEN) for MRI super-resolution
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BIBM 2024</div><img src='images/SR_2D.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BSPC</div><img src='images/HX_SR_2D.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Multi kernel cross sparse graph attention convolutional neural network for brain magnetic resonance imaging super-resolution
