@@ -71,7 +71,7 @@ We designe a super-resolution reconstruction model for head Magnetic Resonance I
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/HX_SR_2D.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/SR_3D.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **DFAN: Dual-Frequency Aware Network for 3D MRI Super-Resolution** 
