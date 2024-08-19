@@ -14,6 +14,7 @@ My research interest includes medical robotics, surgical navigation, medical ima
 
 You can find my CV here: [CV](../assets/cv_mjx_4.0_4.pdf) / [Email](majx@stu.hit.edu.cn) / [Github](https://github.com/mjx8698)
 
+test
 
 Educations
 ======
