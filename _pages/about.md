@@ -9,7 +9,7 @@ redirect_from:
 
 I am a third-year Master student at [State Key Laboratory of Robotics and Systems](https://robot.hit.edu.cn/) at [Harbin Institute of Technology](http://en.hit.edu.cn/), advised by Prof. [Zhijiang Du](https://homepage.hit.edu.cn/duzhjiang).
 
-I received my Bachelor's degree in Mechatronics Engineering at [Harbin Institute of Technology](http://en.hit.edu.cn/) in 2022.
+I received my Bachelor's degree in Mechatronics Engineering at [Harbin Institute of Technology](http://en.hit.edu.cn/) in 2022. From 2019 to 2022, I studied Artificial Intelligence as a minor and obtained a minor degree (awarded by [Harbin Institute of Technology](http://en.hit.edu.cn/)).
 
 My research interest includes medical robotics, surgical navigation, computer vision, mainly focusing on medical image super-resolution tasks.
 
