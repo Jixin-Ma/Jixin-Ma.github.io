@@ -33,7 +33,7 @@ Educations
 
 **Jixin Ma\***, Hongjian Yu*, Zhijiang Du, Xin Hua, Zibo Li, and Hui Zhao.
 
-2024 IEEE International Conference on Bioinformatics and Biomedicine
+2024 IEEE International Conference on Bioinformatics and Biomedicine (BIBM 2024)
 
 We propose a Hybrid Information Enhanced Network (HIEN) for MRI super-resolution task. In HIEN, We design a Spatial-Channel Hybrid Attention (SCHA) to enhance specific semantics representation by combining spatial and channel self-attention together. We propose a Dynamic High-Frequency Pass Filter (DHPF) to preserve high-frequency information adaptively in pixel-wise.
 </div>
