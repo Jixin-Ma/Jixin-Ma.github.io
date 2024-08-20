@@ -8,11 +8,12 @@ redirect_from:
 ---
 
 I am a third-year Master student at [State Key Laboratory of Robotics and Systems](https://robot.hit.edu.cn/) at [Harbin Institute of Technology](http://en.hit.edu.cn/), advised by Prof. [Zhijiang Du](https://homepage.hit.edu.cn/duzhjiang).
+
 I received my Bachelor's degree in Mechatronics Engineering at [Harbin Institute of Technology](http://en.hit.edu.cn/) in 2022.
 
-My research interest includes medical robotics, surgical navigation, medical image processing, computer vision, deep learning and reinforcement Learning, mainly focusing on super-resolution tasks.
+My research interest includes medical robotics, surgical navigation, computer vision, mainly focusing on medical image super-resolution tasks.
 
-You can find my CV here: [CV](../assets/cv_mjx_4.0_4.pdf) / [Email](majx@stu.hit.edu.cn) / [Github](https://github.com/mjx8698)
+[CV](../assets/cv_mjx_4.0_4.pdf) / [Email](majx@stu.hit.edu.cn) / [Github](https://github.com/mjx8698)
 
 
 Educations
