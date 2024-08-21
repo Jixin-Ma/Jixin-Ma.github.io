@@ -32,7 +32,7 @@ author_profile: true
   * Conduct drilling experiments using the cochlear implant robot guided by the designed software to verify its feasibility and accuracy.
 <img src='/images/500x300.png'>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BSPC</div><img src='images/HX_SR_2D.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BSPC</div><img src='/images/HX_SR_2D.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Multi kernel cross sparse graph attention convolutional neural network for brain magnetic resonance imaging super-resolution** [**Paper**](https://www.sciencedirect.com/science/article/pii/S1746809424005020#s0100) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
