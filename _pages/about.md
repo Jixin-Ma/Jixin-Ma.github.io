@@ -16,7 +16,7 @@ My research interest includes medical robotics, surgical navigation, computer vi
 [CV](../assets/cv_mjx_4.0_4.pdf) / [Email](majx@stu.hit.edu.cn) / [Github](https://github.com/mjx8698)
 
 
-Educations
+# 📖 Educations
 ======
 - 2018.08-2022.06 &nbsp; **B.E.** &nbsp;in Harbin Institute of Technology
 - 2022.08-present &ensp; **M.S.** in Harbin Institute of Technology
