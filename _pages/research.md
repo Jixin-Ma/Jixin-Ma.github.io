@@ -6,12 +6,12 @@ author_profile: true
 ---
 
  
-<div class='paper-box'><div class='paper-box-image'><div><img src='/images/SR_2D.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022.10 - Present</div><img src='/images/SR_2D.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Medical Image Super-Resolution Algorithm based on Deep Learning**
 
-Oct.2022 - Present &ensp; &ensp; State Key Laboratory of Robotics and Systems, HIT
+2022.10 - Present &ensp; &ensp; State Key Laboratory of Robotics and Systems, HIT
 
 Supervisor: Prof. Zhijiang Du
 
@@ -22,12 +22,12 @@ Supervisor: Prof. Zhijiang Du
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='/images/software.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2021.10 - 2022.06</div><img src='/images/software.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Robot-Assisted Cochlear Implant Planning and Navigation System (Undergraduate thesis)**
 
-Oct.2021 - Jun.2022 &ensp; &ensp; State Key Laboratory of Robotics and Systems, HIT
+2021.10 - 2022.06 &ensp; &ensp; State Key Laboratory of Robotics and Systems, HIT
 
 Supervisor: Prof. Zhijiang Du
 
@@ -38,12 +38,12 @@ Supervisor: Prof. Zhijiang Du
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='/images/bronchus.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2021.10 - 2022.06</div><img src='/images/bronchus.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Bronchus Segmentation Method based on Deep Learning (Minor thesis)**
 
-Oct.2021 - Jun.2022 &ensp; &ensp; Research Center of Perception and Computing, HIT
+2021.10 - 2022.06 &ensp; &ensp; Research Center of Perception and Computing, HIT
 
 Supervisor: Prof. Qince Li
 
@@ -52,12 +52,12 @@ Supervisor: Prof. Qince Li
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='/images/bucket.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2021.09 - 2022.05</div><img src='/images/bucket.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Vision-Based Garbage Classification Detection System (Innovation Project)**
 
-Sept.2021 - May.2022 &ensp; &ensp; Engineering Innovation Practice Center, HIT
+2021.09 - 2022.05 &ensp; &ensp; Engineering Innovation Practice Center, HIT
 
 Supervisor: Prof. Feng Zhang
 
@@ -67,12 +67,12 @@ Supervisor: Prof. Feng Zhang
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='/images/kinova.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022.09 - 2022.11</div><img src='/images/kinova.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Curling Robot Visual Grasping (Graduate Course)**
 
-Sept.2021 - May.2022 &ensp; &ensp; Institute for Artificial Intelligence, HIT
+2022.09 - 2022.11 &ensp; &ensp; Institute for Artificial Intelligence, HIT
 
 Supervisor: Prof. Jing Jin
 
