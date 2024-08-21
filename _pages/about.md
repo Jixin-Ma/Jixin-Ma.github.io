@@ -74,7 +74,6 @@ Neurocomputing, 2024 (SCI Q1, IF=5.5, Accepted)
 </div>
 
 
-
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/SR_3D.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -84,7 +83,9 @@ Neurocomputing, 2024 (SCI Q1, IF=5.5, Accepted)
 
 The 39th Annual AAAI Conference on Artificial Intelligence (AAAI 2025, Submitted)
 
-We propose a Dual-Frequency Aware Network (DFAN) for 3D MRI super-resolution. We design an adaptive frequency processing block which can process the features of different frequency domains through a low-frequency encoding unit and a high-frequency encoding unit. We also propose a cross-frequency interaction block for feature interaction based on cross-attention mechanism.
+- Propose a Dual-Frequency Aware Network (DFAN) for 3D MRI super-resolution. 
+- Design an adaptive frequency processing block to process the features of different frequency domains. 
+- Design a cross-frequency interaction block for feature interaction and aggregation based on cross-attention mechanism.
 </div>
 </div>
 
