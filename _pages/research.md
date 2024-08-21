@@ -15,7 +15,7 @@ author_profile: true
   * _portfolio/
  
 
- ## Medical Image Super-Resolution Algorithm based on Deep Learning
+## Medical Image Super-Resolution Algorithm based on Deep Learning
 - Oct.2022 - Present, State Key Laboratory of Robotics and Systems, HIT
 - Supervisor: Prof. Zhijiang Du
   * Propose a multi frequency super-resolution network based on CNN and Transformer for 3D MRI volume super-resolution.
