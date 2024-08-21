@@ -107,7 +107,7 @@ The 39th Annual AAAI Conference on Artificial Intelligence (AAAI 2025, Submitted
 - 2023.12 &ensp; **National Scholarship for Master Students**
 - 2023.12 &ensp; Provincial Merit Student
 
-## Competitions
+## 🏆 Competitions
 
 - 2019.05 &ensp; Second Prize in the 2nd China University Intelligent Robot Creativity Competition
 - 2019.10 &ensp; First Prize of the 21st China Robot and Artificial Intelligence Competition
