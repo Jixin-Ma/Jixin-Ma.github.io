@@ -10,7 +10,7 @@ main:
     url: "/about/"
     
   - title: "Educations"
-    url: "/#educations"
+    url: "/#-educations"
 
   - title: "News"
     url: "/#-news"
