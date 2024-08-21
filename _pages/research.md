@@ -5,14 +5,6 @@ author_profile: true
 
 ---
 
-## Locations of key files/directories
-
-* Basic config options: _config.yml
-* Top navigation bar config: _data/navigation.yml
-* Single pages: _pages/
-* Collections of pages are .md or .html files in:
-  * _publications/
-  * _portfolio/
  
 <div class='paper-box'><div class='paper-box-image'><div><img src='/images/SR_2D.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -60,7 +52,7 @@ Supervisor: Prof. Qince Li
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='/images/bronchus.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='/images/bucket.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Vision-Based Garbage Classification Detection System (Innovation Project)**
