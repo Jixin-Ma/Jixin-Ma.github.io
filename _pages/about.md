@@ -61,7 +61,7 @@ We designe a super-resolution reconstruction model for head Magnetic Resonance I
 
 **A Lightweight Multi-scale Multi-angle Dynamic Interactive Transformer-CNN Fusion Model for 3D Medical Image Segmentation** 
 
-Xin Hua, Hongjian Yu, Zhijiang Du, **Jixin Ma**, Fanjun Zheng, Chen Zhang, Qiaohui Lu, Hui Zhao
+Xin Hua, Zhijiang Du, Hongjian Yu, **Jixin Ma**, Fanjun Zheng, Chen Zhang, Qiaohui Lu, Hui Zhao
 
 Neurocomputing, 2024 (SCI Q1, IF=5.5, Accepted)
 
