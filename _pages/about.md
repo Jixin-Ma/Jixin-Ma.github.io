@@ -50,7 +50,9 @@ Xin Hua, Zhijiang Du, **Jixin Ma**, Hongjian Yu.
 
 Biomedical Signal Processing and Control, 2024 (SCI Q1, IF=4.9)
 
-We designe a super-resolution reconstruction model for head Magnetic Resonance Imaging (MRI) images. We propose a graph neural network module based on a sparse attention mechanism that connects distant pixel features and identifies influential neighboring pixels for target pixel inpainting.  
+- Propose a super-resolution network for head MRI.
+- Design a Multiple Groupss of Cross-Iterative Feature modules to promote inter-channel feature interactions and emphasize crucial features.
+- Design a Graph Neural Network Module based on a sparse attention mechanism for target pixel inpainting. 
 </div>
 </div>
 
