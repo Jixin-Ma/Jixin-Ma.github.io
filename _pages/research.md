@@ -30,7 +30,7 @@ Supervisor: Prof. Zhijiang Du
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='/images/SR_2D.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='/images/software.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Robot-Assisted Cochlear Implant Planning and Navigation System (Undergraduate thesis)**
