@@ -91,20 +91,23 @@ We propose a Dual-Frequency Aware Network (DFAN) for 3D MRI super-resolution. We
 ## Honors
 
 - 2019.12 &ensp; Outstanding Student Model at Harbin Institute of Technology
-- 2019.12 &ensp; National Scholarship for Bachelor Students
-- 2020.12 &ensp; National Scholarship for Bachelor Students
+- 2019.12 &ensp; **National Scholarship for Bachelor Students**
+- 2020.12 &ensp; **National Scholarship for Bachelor Students**
 - 2020.12 &ensp; Excellent Student Cadre at Harbin Institute of Technology
 - 2021.11 &ensp; Third Prize of Hegao Scholarship
 - 2022.06 &ensp; Outstanding Graduate at Harbin Institute of Technology
 - 2022.09 &ensp; Special Grade Scholarship at Harbin Institute of Technology
 - 2023.09 &ensp; Special Grade Scholarship at Harbin Institute of Technology
 - 2023.11 &ensp; Outstanding Student at Harbin Institute of Technology
-- 2023.12 &ensp; National Scholarship for Master Students
+- 2023.12 &ensp; **National Scholarship for Master Students**
 - 2023.12 &ensp; Provincial Merit Student
 
 ## Competitions
 
+- 2019.05 &ensp; Second Prize in the 2nd China University Intelligent Robot Creativity Competition
 - 2019.10 &ensp; First Prize of the 21st China Robot and Artificial Intelligence Competition
 - 2020.12 &ensp; Second Prize in the 3rd China University Intelligent Robot Creativity Competition
+- 2022.10 &ensp; First Prize in the 16th iCAN Innovation Contest (HEILONGJIANG) 
 - 2023.01 &ensp; Third Prize in the 19th China Postgraduate Mathematical Contest in Modeling
+- 2023.08 &ensp; First Prize in 2023 China-U.S Young Maker Competition (Shenyang Division)
   
