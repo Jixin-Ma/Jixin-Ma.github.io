@@ -35,10 +35,10 @@ Educations
 
 2024 IEEE International Conference on Bioinformatics and Biomedicine (BIBM 2024, Accepted)
 
-We propose a Hybrid Information Enhanced Network (HIEN) for MRI super-resolution task. In HIEN, We design a Spatial-Channel Hybrid Attention (SCHA) to enhance specific semantics representation by combining spatial and channel self-attention together. We propose a Dynamic High-Frequency Pass Filter (DHPF) to preserve high-frequency information adaptively in pixel-wise.
+- A Hybrid Information Enhanced Network (HIEN) is proposed for MRI super-resolution task. 
+- Design a Spatial-Channel Hybrid Attention (SCHA) to enhance specific semantics representation  and a Dynamic High-Frequency Pass Filter (DHPF) to preserve high-frequency information adaptively in pixel-wise.
 </div>
 </div>
-
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">BSPC</div><img src='images/HX_SR_2D.png' alt="sym" width="100%"></div></div>
