@@ -91,9 +91,9 @@ The 39th Annual AAAI Conference on Artificial Intelligence (AAAI 2025, Submitted
 
 
 
-# 🎖 Honors and Awards
+# 🏅 Honors and Awards
 
-## Honors
+## 👏 Honors
 
 - 2019.12 &ensp; Outstanding Student Model at Harbin Institute of Technology
 - 2019.12 &ensp; **National Scholarship for Bachelor Students**
