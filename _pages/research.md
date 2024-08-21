@@ -75,7 +75,7 @@ Supervisor: Prof. Feng Zhang
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='/images/bronchus.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='/images/kinova.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Curling Robot Visual Grasping (Graduate Course)**
