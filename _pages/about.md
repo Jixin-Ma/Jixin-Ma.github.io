@@ -33,7 +33,7 @@ Educations
 
 **Jixin Ma\***, Hongjian Yu*, Zhijiang Du, Xin Hua, Zibo Li, and Hui Zhao.
 
-2024 IEEE International Conference on Bioinformatics and Biomedicine (BIBM 2024)
+2024 IEEE International Conference on Bioinformatics and Biomedicine (BIBM 2024, Accepted)
 
 We propose a Hybrid Information Enhanced Network (HIEN) for MRI super-resolution task. In HIEN, We design a Spatial-Channel Hybrid Attention (SCHA) to enhance specific semantics representation by combining spatial and channel self-attention together. We propose a Dynamic High-Frequency Pass Filter (DHPF) to preserve high-frequency information adaptively in pixel-wise.
 </div>
@@ -63,9 +63,9 @@ We designe a super-resolution reconstruction model for head Magnetic Resonance I
 
 Xin Hua, Hongjian Yu, Zhijiang Du, **Jixin Ma**, Fanjun Zheng, Chen Zhang, Qiaohui Lu, Hui Zhao
 
-Neurocomputing, 2024 (SCI Q1, IF=5.5)
+Neurocomputing, 2024 (SCI Q1, IF=5.5, Accepted)
 
-We designe a super-resolution reconstruction model for head Magnetic Resonance Imaging (MRI) images. We propose a graph neural network module based on a sparse attention mechanism that connects distant pixel features and identifies influential neighboring pixels for target pixel inpainting.  
+We develope a lightweight 3D multi-target semantic segmentation model. We designed a multi-scale and multi-angle feature interaction module to enhance feature representation by interacting multi-scale features from different perspectives. We utilized local features as dynamic parameters to interact with global features to enhance the model's ability to learn detailed features. 
 </div>
 </div>
 
