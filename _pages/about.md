@@ -67,7 +67,9 @@ Xin Hua, Zhijiang Du, Hongjian Yu, **Jixin Ma**, Fanjun Zheng, Chen Zhang, Qiaoh
 
 Neurocomputing, 2024 (SCI Q1, IF=5.5, Accepted)
 
-We develope a lightweight 3D multi-target semantic segmentation model. We designed a multi-scale and multi-angle feature interaction module to enhance feature representation by interacting multi-scale features from different perspectives. We utilized local features as dynamic parameters to interact with global features to enhance the model's ability to learn detailed features. 
+- Propose a lightweight 3D multi-target semantic segmentation model. 
+- Enhance feature representation by interacting multi-scale features from different perspectives. 
+- Utilized local features as dynamic parameters to interact with global features to enhance the learning of detailed features. 
 </div>
 </div>
 
