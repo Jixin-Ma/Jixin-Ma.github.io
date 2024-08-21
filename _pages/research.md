@@ -21,7 +21,7 @@ author_profile: true
   * Propose a multi frequency super-resolution network based on CNN and Transformer for 3D MRI volume super-resolution.
   * Propose a hybrid information enhanced network based on Transformer for 2D MRI super-resolution.
   * Conduct experiments on two public MRI datasets and achieve SOTA results.
-<img src='/images/500x300.png'>
+<img src='/images/SR_2D.png'>
 
 
 ## Robot-Assisted Cochlear Implant Planning and Navigation System (Undergraduate thesis)
