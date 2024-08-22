@@ -17,8 +17,8 @@ My research interest includes medical robotics, surgical navigation, computer vi
 
 
 # 📖 Educations
-- 2018.08-2022.06 &nbsp; **B.E.** &nbsp;in Harbin Institute of Technology
-- 2022.08-present &ensp; **M.S.** in Harbin Institute of Technology
+- 2018.08-2022.06 &nbsp; **B.E.** &nbsp;in Harbin Institute of Technology (GPA: 94.58/100  &ensp;   Rank: 2/135 (Top 2%))
+- 2022.08-present &ensp; **M.S.** in Harbin Institute of Technology (GPA: 91.03/100  &ensp;   Rank: 21/371 (Top 6%))
 
 
 # 🔥 News
