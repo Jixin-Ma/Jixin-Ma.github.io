@@ -8,7 +8,7 @@ author_profile: true
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023.08 - Present</div><img src='/images/SR_3D.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**3D Medical Image Super-Resolution Algorithm based on Deep Learning**
+**3D Medical Image Super-Resolution Algorithm based on Deep Learning (Part of Master's Thesis)**
 
 2023.08 - Present &ensp; &ensp; State Key Laboratory of Robotics and Systems, HIT
 
@@ -23,7 +23,7 @@ Supervisor: Prof. Zhijiang Du
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022.09 - 2023.08</div><img src='/images/SR_2D.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**2D Medical Image Super-Resolution Algorithm based on Deep Learning**
+**2D Medical Image Super-Resolution Algorithm based on Deep Learning (Part of Master's Thesis)**
 
 2022.09 - 2023.08 &ensp; &ensp; State Key Laboratory of Robotics and Systems, HIT
 
