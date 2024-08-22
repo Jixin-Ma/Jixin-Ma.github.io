@@ -66,9 +66,6 @@ Supervisor: Prof. Qince Li
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2021.09 - 2022.05</div><img src='/images/bucket.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022.09 - 2022.11</div><img src='/images/kinova.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -86,6 +83,9 @@ Supervisor: Prof. Jing Jin
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2021.09 - 2022.05</div><img src='/images/bucket.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+ 
 **Vision-Based Garbage Classification Detection System (Innovation Project)**
 
 2021.09 - 2022.05 &ensp; &ensp; Engineering Innovation Practice Center, HIT
