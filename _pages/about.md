@@ -95,15 +95,15 @@ The 39th Annual AAAI Conference on Artificial Intelligence (AAAI 2025, Submitted
 ## 👏 Honors
 
 - 2019.12 &ensp; Outstanding Student Model at Harbin Institute of Technology
-- 2019.12 &ensp; **National Scholarship for Bachelor Students**
-- 2020.12 &ensp; **National Scholarship for Bachelor Students**
+- 2019.12 &ensp; **National Scholarship for Bachelor Students (8,000 RMB)**
+- 2020.12 &ensp; **National Scholarship for Bachelor Students (8,000 RMB)**
 - 2020.12 &ensp; Excellent Student Cadre at Harbin Institute of Technology
-- 2021.11 &ensp; Third Prize of Hegao Scholarship
+- 2021.11 &ensp; Third Prize of Hegao Scholarship (4,000 RMB)
 - 2022.06 &ensp; Outstanding Graduate at Harbin Institute of Technology
-- 2022.09 &ensp; Special Grade Scholarship at Harbin Institute of Technology
-- 2023.09 &ensp; Special Grade Scholarship at Harbin Institute of Technology
+- 2022.09 &ensp; Special Grade Scholarship at Harbin Institute of Technology (22,000 RMB)
+- 2023.09 &ensp; Special Grade Scholarship at Harbin Institute of Technology (22,000 RMB)
 - 2023.11 &ensp; Outstanding Student at Harbin Institute of Technology
-- 2023.12 &ensp; **National Scholarship for Master Students**
+- 2023.12 &ensp; **National Scholarship for Master Students (20,000 RMB)**
 - 2023.12 &ensp; Provincial Merit Student
 
 ## 🏆 Competitions
