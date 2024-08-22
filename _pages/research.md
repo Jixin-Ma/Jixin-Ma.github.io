@@ -62,7 +62,7 @@ Supervisor: Prof. Zhijiang Du
 Supervisor: Prof. Qince Li
 
 - Proposed an improved network based on V-Net for accurate and efficient bronchus segmentation.
-- 	Trained and tuned hyperparameters tuning on two public bronchus datasets.
+- Trained and tuned hyperparameters tuning on two public bronchus datasets.
 </div>
 </div>
 
