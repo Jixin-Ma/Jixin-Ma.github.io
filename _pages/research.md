@@ -5,19 +5,33 @@ author_profile: true
 
 ---
 
- 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022.10 - Present</div><img src='/images/SR_2D.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023.08 - Present</div><img src='/images/SR_3D.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Medical Image Super-Resolution Algorithm based on Deep Learning**
+**3D Medical Image Super-Resolution Algorithm based on Deep Learning**
 
-2022.10 - Present &ensp; &ensp; State Key Laboratory of Robotics and Systems, HIT
+2023.08 - Present &ensp; &ensp; State Key Laboratory of Robotics and Systems, HIT
 
 Supervisor: Prof. Zhijiang Du
 
-- Propose a multi frequency super-resolution network based on CNN and Transformer for 3D MRI volume super-resolution.
-- Propose a hybrid information enhanced network based on Transformer for 2D MRI super-resolution.
-- Conduct experiments on two public MRI datasets and achieve SOTA results.
+- Proposed a dual-frequency aware network (DFAN) for 3D MRI volume super-resolution.
+- Proposed an adaptive frequency processing block to extract features of different frequency domains through Fast Fourier Convolution and high-frequency prior, and proposed a novel cross-attention mechanism for feature interaction and aggregation.
+- Conducted experiments on two public MRI datasets and outperformed other SOTA methods.
+</div>
+</div>
+ 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022.09 - 2023.08</div><img src='/images/SR_2D.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**2D Medical Image Super-Resolution Algorithm based on Deep Learning**
+
+2022.09 - 2023.08 &ensp; &ensp; State Key Laboratory of Robotics and Systems, HIT
+
+Supervisor: Prof. Zhijiang Du
+
+- Proposed a hybrid information enhanced network (HIEN) based on Transformer for 2D MRI super-resolution.
+- Proposed a spatial-channel hybrid attention to enhance specific semantics representation, and proposed a dynamic filter based on content-adaptive convolution to restore high-frequency information.
+- Conducted experiments on two public MRI datasets and outperformed other SOTA methods.
 </div>
 </div>
 
@@ -31,9 +45,9 @@ Supervisor: Prof. Zhijiang Du
 
 Supervisor: Prof. Zhijiang Du
 
-- Develop a robot-assisted cochlear implant planning and navigation software based on C++, VTK and Qt.
-- Achieve software functions such as medical image visualization, interaction, 3D reconstruction, cochlear implant channel drilling process demonstration and ICP registration.
-- Conduct drilling experiments using the cochlear implant robot guided by the designed software to verify its feasibility and accuracy.
+- Developed a planning and navigation software based on C++, VTK and Qt, achieving medical image visualization, 3D reconstruction, demonstration of the cochlear implant channel drilling process and ICP registration.
+- Proposed a surgical bone drill registration method for cochlear implant surgery and carried out experiment to verify the feasibility of the new method.
+- Conducted drilling experiments using the cochlear implant robot guided by the designed software to verify the drilling accuracy.
 </div>
 </div>
 
@@ -48,12 +62,29 @@ Supervisor: Prof. Zhijiang Du
 Supervisor: Prof. Qince Li
 
 - Proposed an improved network based on V-Net for accurate and efficient bronchus segmentation.
-- Training and hyperparameter tuning on two public bronchus datasets.
+- 	Trained and tuned hyperparameters tuning on two public bronchus datasets.
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2021.09 - 2022.05</div><img src='/images/bucket.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022.09 - 2022.11</div><img src='/images/kinova.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Robotic Grasping System for Curling-Stones (Graduate Course)**
+
+2022.09 - 2022.11 &ensp; &ensp; Institute for Artificial Intelligence, HIT
+
+Supervisor: Prof. Jing Jin
+
+- Established communication between Kinova Robotic Arm and ROS system on Jetson TX2.
+- Completed the hand-eye calibration of Kinova Robotic Arm and the RealSense D435i camera based on the Eye-in-hand method.
+- Achieved the curling grasping of Kinova Robotic Arm based on depth information.
+</div>
+</div>
+
 
 **Vision-Based Garbage Classification Detection System (Innovation Project)**
 
@@ -61,23 +92,8 @@ Supervisor: Prof. Qince Li
 
 Supervisor: Prof. Feng Zhang
 
-- Train YOLOv5 on a self-collected and hand-labeled dataset of garbage images.
-- Deploy the trained model on the Jetson Nano using TensorRT to achieve real-time garbage detection.
+- Trained YOLOv5 on a self-collected and hand-labeled dataset of garbage images.
+- Deployed the trained model on the Jetson Nano using TensorRT and achieved real-time garbage detection.
 </div>
 </div>
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022.09 - 2022.11</div><img src='/images/kinova.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Curling Robot Visual Grasping (Graduate Course)**
-
-2022.09 - 2022.11 &ensp; &ensp; Institute for Artificial Intelligence, HIT
-
-Supervisor: Prof. Jing Jin
-
-- Establish communication between Kinova Robotic Arm and ROS system on Jetson TX2.
-- Complete the hand-eye calibration of the Kinova robot arm and the RealSense D435i camera based on the Eye-in-hand method.
-- Achieve  the curling grasping of Kinova robot arm based on depth information.
-</div>
-</div>
