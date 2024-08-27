@@ -47,7 +47,7 @@ My research interest includes medical robotics, surgical navigation, computer vi
 
 Xin Hua, Zhijiang Du, **Jixin Ma**, Hongjian Yu.
 
-Biomedical Signal Processing and Control, 2024 (SCI Q1, IF=4.9)
+Biomedical Signal Processing and Control, 2024, 96: 106444.  (JCR Q1, IF=4.9)
 
 - Propose a super-resolution network for head MRI.
 - Design a Multiple Groupss of Cross-Iterative Feature modules to promote inter-channel feature interactions and emphasize crucial features.
@@ -60,11 +60,11 @@ Biomedical Signal Processing and Control, 2024 (SCI Q1, IF=4.9)
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurocomputing</div><img src='images/Seg_3D.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**A Lightweight Multi-scale Multi-angle Dynamic Interactive Transformer-CNN Fusion Model for 3D Medical Image Segmentation** 
+**A Lightweight Multi-scale Multi-angle Dynamic Interactive Transformer-CNN Fusion Model for 3D Medical Image Segmentation** [**Paper**](https://www.sciencedirect.com/science/article/abs/pii/S0925231224011883#tbl0020) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> 
 
 Xin Hua, Zhijiang Du, Hongjian Yu, **Jixin Ma**, Fanjun Zheng, Chen Zhang, Qiaohui Lu, Hui Zhao
 
-Neurocomputing, 2024 (SCI Q1, IF=5.5, Accepted)
+Neurocomputing, 2024, 608: 128417. (JCR Q1, IF=5.5)
 
 - Propose a lightweight 3D multi-target semantic segmentation model. 
 - Enhance feature representation by interacting multi-scale features from different perspectives. 
