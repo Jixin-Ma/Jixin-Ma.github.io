@@ -13,7 +13,7 @@ I received my Bachelor's degree in Mechatronics Engineering at [Harbin Institute
 
 My research interest includes medical robotics, surgical navigation, computer vision, mainly focusing on medical image super-resolution tasks.
 
-[CV](../assets/cv_mjx_4.0_4.pdf) / [Email](majx@stu.hit.edu.cn) / [Github](https://github.com/mjx8698)
+[CV](../assets/CV_Jixin_Ma.pdf) / [Email](majx@stu.hit.edu.cn)
 
 
 # 📖 Educations
