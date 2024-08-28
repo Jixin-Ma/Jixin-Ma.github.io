@@ -13,7 +13,7 @@ I received my Bachelor's degree in Mechatronics Engineering at [Harbin Institute
 
 My research interest includes medical robotics, surgical navigation, computer vision, mainly focusing on medical image super-resolution tasks.
 
-[CV](../assets/CV_Jixin_Ma.pdf) / [Email](majx@stu.hit.edu.cn)
+[CV](../assets/CV_Jixin_Ma.pdf) / [Email](majx@stu.hit.edu.cn) /[Google Scholar](https://scholar.google.com/citations?hl=zh-CN&view_op=list_works&gmla=AC6lMd-T9iPVXYiyRoiHjsvOyLvjyqNccnb3FI1qma2ffqpN4ACzcJt8e00BK2fVMgOTvskmdk7JFm8YDRKk4OXyNCDUloHCVAcKQkEBtg809bu6uqXQcLOuCiyQtRzO64o&user=SaW1H10AAAAJ#)
 
 
 # 📖 Educations
@@ -32,7 +32,7 @@ My research interest includes medical robotics, surgical navigation, computer vi
 
 **Jixin Ma\***, Hongjian Yu*, Zhijiang Du, Xin Hua, Zibo Li, and Hui Zhao.
 
-2024 IEEE International Conference on Bioinformatics and Biomedicine (BIBM 2024, Accepted)
+2024 IEEE International Conference on Bioinformatics and Biomedicine (IEEE BIBM 2024, Accepted)
 
 - A Hybrid Information Enhanced Network (HIEN) is proposed for MRI super-resolution task. 
 - Design a Spatial-Channel Hybrid Attention (SCHA) to enhance specific semantics representation  and a Dynamic High-Frequency Pass Filter (DHPF) to preserve high-frequency information adaptively in pixel-wise.
