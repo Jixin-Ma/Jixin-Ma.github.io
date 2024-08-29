@@ -13,7 +13,7 @@ I received my Bachelor's degree in Mechatronics Engineering at [Harbin Institute
 
 My current research areas include medical robotics, surgical navigation, computer vision, mainly focusing on medical image super-resolution tasks.
 
-I am also interested in **reinforcement learning**, **robotic control**, and **embodied intelligence**.
+I am also interested in reinforcement learning, robotic control, and embodied intelligence.
 
 [CV](../assets/CV_Jixin_Ma.pdf) / [Email](majx@stu.hit.edu.cn) /[Google Scholar](https://scholar.google.com/citations?hl=zh-CN&view_op=list_works&gmla=AC6lMd-T9iPVXYiyRoiHjsvOyLvjyqNccnb3FI1qma2ffqpN4ACzcJt8e00BK2fVMgOTvskmdk7JFm8YDRKk4OXyNCDUloHCVAcKQkEBtg809bu6uqXQcLOuCiyQtRzO64o&user=SaW1H10AAAAJ#)
 
