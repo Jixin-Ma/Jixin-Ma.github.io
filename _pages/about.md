@@ -11,7 +11,9 @@ I am a Master's student at [State Key Laboratory of Robotics and Systems](https:
 
 I received my Bachelor's degree in Mechatronics Engineering at [Harbin Institute of Technology](http://en.hit.edu.cn/) in 2022. From 2019 to 2022, I studied Artificial Intelligence as a minor and obtained a minor degree (awarded by [Harbin Institute of Technology](http://en.hit.edu.cn/)).
 
-My research interest includes medical robotics, surgical navigation, computer vision, mainly focusing on medical image super-resolution tasks.
+My current research areas include medical robotics, surgical navigation, computer vision, mainly focusing on medical image super-resolution tasks.
+
+I am also interested in **reinforcement learning**, **robotic control**, and **embodied intelligence**.
 
 [CV](../assets/CV_Jixin_Ma.pdf) / [Email](majx@stu.hit.edu.cn) /[Google Scholar](https://scholar.google.com/citations?hl=zh-CN&view_op=list_works&gmla=AC6lMd-T9iPVXYiyRoiHjsvOyLvjyqNccnb3FI1qma2ffqpN4ACzcJt8e00BK2fVMgOTvskmdk7JFm8YDRKk4OXyNCDUloHCVAcKQkEBtg809bu6uqXQcLOuCiyQtRzO64o&user=SaW1H10AAAAJ#)
 
